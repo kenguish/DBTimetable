@@ -1,0 +1,9 @@
+MIDlet-1: DBTimetable,,dbtimetable.DBTimetableMIDletClass
+MIDlet-Info-URL: http://db.tdw.hk/
+MIDlet-Jar-Size: 67851
+MIDlet-Jar-URL: DBTimetable.jar
+MIDlet-Name: DBTimetable
+MIDlet-Vendor: Kenneth Anguish
+MIDlet-Version: 2.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
