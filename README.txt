@@ -1,5 +1,5 @@
-DBTimetable 2.0
-June 14, 2009
+DBTimetable 2.1
+February 10, 2010
 
 Program initiated by:
 Emil Chan <http://dbtable.co.nr/>
