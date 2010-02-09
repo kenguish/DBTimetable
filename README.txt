@@ -7,7 +7,6 @@ Emil Chan <http://dbtable.co.nr/>
 Implementation revised by:
 Kenneth Anguish <http://facebook.com/kenguish/>
 
-
 This DBTimetable implementation is designed to be downloaded to a cellphone 
 over-the-air by clicking on a JAD file.
 
