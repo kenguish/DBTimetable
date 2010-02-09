@@ -794,14 +794,14 @@ public class DBTimetableMIDletClass extends MIDlet implements CommandListener {
                         
                         JSONArray ia = inner.getJSONArray("routes");
                         
-                        String[] subroutes = new String[2];
+                        String[] subroutes = new String[ia.length()];
                         for (int j=0; j<ia.length(); j++) {
                         	JSONObject innermost = ia.getJSONObject(j);
                         	String subroutename = innermost.getString("routename");
                         	String subroutefilename = innermost.getString("filename");
                         	subroutes[j] = subroutename;
-                        	// System.out.println( subroutename );
-                        	// System.out.println( "---------------------------" );
+                        	System.out.println( subroutename );
+                        	System.out.println( "---------------------------" );
                         	subroutelistTable.put(subroutename, subroutefilename);
                         }
                         
@@ -883,7 +883,7 @@ public class DBTimetableMIDletClass extends MIDlet implements CommandListener {
 	    		
 	    		String[] subroutes = (String[]) routelistTable.get(selection);
 	    		
-	    		for (int i=0; i<2; i++) {
+	    		for (int i=0; i<subroutes.length; i++) {
 	    			routeSelectionList.append( subroutes[i], null);
 	    		}
 	    		display.setCurrent(routeSelectionList);
