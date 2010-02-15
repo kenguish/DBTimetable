@@ -211,8 +211,52 @@
 					}
 				]
 			},
-			
-			
-
+			{ 
+				"routename" : "Golf Club",
+			  	"routes" : [
+					{
+						"routename" : "From Club House",
+						"filename" : "golfclub_from_clubhouse"
+					},
+					{
+						"routename" : "From Commercial Centre",
+						"filename" : "golfclub_from_commerical_centre"
+						
+					}
+				]
+			},
+			{ 
+				"routename" : "DB / Mui Wo Kai-to",
+			  	"routes" : [
+					{
+						"routename" : "Discovery Bay to Mui Wo",
+						"filename" : "kaito_muiwo_from"
+					},
+					{
+						"routename" : "Mui Wo to Discovery Bay",
+						"filename" : "kaito_muiwo_to"
+						
+					}
+				]
+			},
+			{ 
+				"routename" : "DB / Peng Chau Kai-to",
+			  	"routes" : [
+					{
+						"routename" : "From Peng Chau",
+						"filename" : "kaito_pengchau_from_pengchau"
+					},
+					{
+						"routename" : "From Trappist Monastery",
+						"filename" : "kaito_pengchau_from_trappistmonastery"
+						
+					},
+					{
+						"routename" : "From Discovery Bay",
+						"filename" : "kaito_pengchau_from_discoverybay"
+						
+					}
+				]
+			}
 		]
 }
