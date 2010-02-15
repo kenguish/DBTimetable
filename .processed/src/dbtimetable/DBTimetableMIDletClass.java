@@ -720,7 +720,7 @@ public class DBTimetableMIDletClass extends MIDlet implements CommandListener {
 	boolean mainscreen = true;		// flag for main screen selection, false for subroutes
 	boolean timetablescreen = false;	// flag for overwriting timetable screen
 	
-	String help_text = "DBTimetable is a the new electronic timetable for the Discovery Bay community. You can view all the buses and ferries connecting the Discovery Bay community. \r\n\r\nFor more information, please visit <http://db.tdw.hk/>.\r\n\r\nProgram initiated by:\r\nEmil Chan\r\n<http://dbtable.co.nr/>\r\n\r\nImplementation revised by:\r\nKenneth Anguish\r\n<http://facebook.com/kenguish/>\r\n\r\n";
+	String help_text = "DBTimetable 2.0 is a the new electronic timetable for the Discovery Bay community. You can view all the buses and ferries connecting the Discovery Bay community. \r\n\r\nFor more information, please visit <http://github.com/kenguish/DBTimetable>.\r\n\r\nProgram initiated by:\r\nEmil Chan\r\n<http://dbtable.co.nr/>\r\n\r\nImplementation revised by:\r\nKenneth Anguish\r\n<http://fleur.hk/>\r\n\r\n";
 	String hk_public_holidays;
 	
 	// Check if today is weekdays
