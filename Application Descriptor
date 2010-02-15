@@ -1,5 +1,5 @@
 MIDlet-Version: 2.0.0
-MIDlet-Info-URL: http://db.tdw.hk/
+MIDlet-Info-URL: http://github.com/kenguish/DBTimetable/
 MIDlet-Vendor: Kenneth Anguish
 MIDlet-Jar-URL: DBTimetable.jar
 MicroEdition-Configuration: CLDC-1.1
