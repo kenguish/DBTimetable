@@ -5,15 +5,15 @@ Program initiated by:
 Emil Chan <http://dbtable.co.nr/>
 
 Implementation revised by:
-Kenneth Anguish <http://facebook.com/kenguish/>
+Kenneth Anguish <http://github.com/kenguish/>
 
 This DBTimetable implementation is designed to be downloaded to a cellphone 
 over-the-air by clicking on a JAD file.
 
 The development environment is:
 Windows 2003 Server
-Eclipse 3.4.2 
-EclipseME <http://eclipseme.org/> 
+Eclipse 3.5 
+DSDP Mobile Tools for Java  (MTJ) <http://www.eclipse.org/dsdp/mtj/> 
 JDK 1.6.0_13
 
 If you pull the sources from Github <https://github.com/kenguish/DBTimetable/tree>,
