@@ -28,4 +28,6 @@ src/	- The actual Java source code of the program. JSON library is used to parse
 If you are interested to extend the code, please feel free to contact the project
 maintainer on Github.
 
+For iPhone version, please go to https://github.com/kenguish/DBTimetable-iPhone-1.0
+
 
